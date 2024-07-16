@@ -11,7 +11,7 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 #### Discord - [It](https://discordapp.com/users/961408543192391741)
 #### GitBook - [Is](https://github.com/orangebobby)
 
-## My portfolio💻
+## 💻My portfolio💻
 #### [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30)
 #### [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el)
 #### [Babylon](https://github.com/babylonchain/networks/pull/301)
