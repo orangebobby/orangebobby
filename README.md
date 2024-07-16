@@ -16,6 +16,10 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 <a href="https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el" target="_blank"><img src="img/nillion.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://github.com/babylonchain/networks/pull/301" target="_blank"><img src="img/babylon_black.jpeg" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://test.xfiscan.com/validators/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/xfi.webp" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.itrocket.net/crossfi/staking/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/itrocket.jfif" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://socotra.mcnscan.io/chain/L6HoCoW3WjunTJLj17fMnGpBbLtcZXdqbw2TsvfYDJzbsqVEi" target="_blank"><img src="img/socotra_logo.jfif" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://genesis.mcnscan.io/chain/2Zr6aSGX8LAatKXLcytd1jwssjwUfKXr86WyGTrfxpXHDV8Cgm" target="_blank"><img src="img/genesis.jpg" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
+
 #### [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el)
 #### [Babylon](https://github.com/babylonchain/networks/pull/301)
 #### [CrossFi](https://test.xfiscan.com/validators/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj)
