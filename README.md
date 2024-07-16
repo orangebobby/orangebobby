@@ -7,9 +7,9 @@ I am dedicated to advancing the adoption and reliability of blockchain technolog
 ### Get in Touch
 I am always eager to connect with fellow enthusiasts, developers, and innovators. Let's work together to build a decentralized future!
 ## Links🔗
-X - [Link](https://x.com/0rangebobby)
-Discord - [Link](https://discordapp.com/users/961408543192391741)
-GitBook - [Link](https://github.com/orangebobby)
+#### X - [Here](https://x.com/0rangebobby)
+#### Discord - [It](https://discordapp.com/users/961408543192391741)
+#### GitBook - [Is](https://github.com/orangebobby)
 
 ## My portfolio💻
 #### [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30)
