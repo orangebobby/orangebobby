@@ -8,7 +8,9 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 #### X - [Here](https://x.com/0rangebobby)
 [![Twitter](https://img.shields.io/static/v1?message=X.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/0rangebobby)
 #### Discord - [It](https://discordapp.com/users/961408543192391741)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/961408543192391741)
 #### GitBook - [Is](https://github.com/orangebobby)
+[![GitBook](https://img.shields.io/static/v1?message=GitBook&logo=gitbook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/orangebobby)
 
 ## 🔥My Validators🔥
 #### [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30)
