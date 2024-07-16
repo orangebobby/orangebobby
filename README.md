@@ -13,6 +13,7 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 #### [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30)
 <a href="https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30" target="_blank"><img src="img/haqq_normalize.jpg" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="img/0g.svg" title="0G" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el" target="_blank"><img src="img/nillion.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 #### [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el)
 #### [Babylon](https://github.com/babylonchain/networks/pull/301)
 #### [CrossFi](https://test.xfiscan.com/validators/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj)
