@@ -15,6 +15,6 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 <a href="https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el" target="_blank"><img src="img/nillion.png" title="NILLION" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://github.com/babylonchain/networks/pull/301" target="_blank"><img src="img/babylon_black.jpeg" title="BABYLON" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://test.xfiscan.com/validators/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/xfi.webp" title="XFI" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://testnet.itrocket.net/crossfi/staking/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/itrocket.jfif" title="ITROCKET" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.itrocket.net/crossfi/staking/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/celestia logo.jpeg" title="CELESTIA" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://socotra.mcnscan.io/chain/L6HoCoW3WjunTJLj17fMnGpBbLtcZXdqbw2TsvfYDJzbsqVEi" target="_blank"><img src="img/socotra_logo.jfif" title="SOCOTRA" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://genesis.mcnscan.io/chain/2Zr6aSGX8LAatKXLcytd1jwssjwUfKXr86WyGTrfxpXHDV8Cgm" target="_blank"><img src="img/genesis.jpg" title="GENESIS" width="80" height="auto" style="max-width: 100%;"></a>
