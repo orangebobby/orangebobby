@@ -10,11 +10,13 @@ I am always eager to connect with fellow enthusiasts, developers, and innovators
 [![GitBook](https://img.shields.io/static/v1?message=GitBook&logo=gitbook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/orangebobby)
 
 ## 🔥My Validators🔥
-<a href="https://testnet.ping.pub/haqq/staking/haqqvaloper1cfu64mv4kutgxp26jg5xpwdup6xx0ymzf4pd30" target="_blank"><img src="img/haqq_normalize.jpg" title="HAQQ" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="img/0g.svg" title="0G" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://testnet.nillion.explorers.guru/validator/nillionvaloper1nh6ah6v5fdkfzz9k88kn30ky4l9r4qhz9my5el" target="_blank"><img src="img/nillion.png" title="NILLION" width="80" height="auto" style="max-width: 100%;"></a>
+
+<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="https://github.com/user-attachments/assets/5ef62392-229e-4171-888c-2e10ed6840dd" title="SupraOracles" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="https://github.com/user-attachments/assets/9f92cf5d-adb7-41fa-9539-848684dc678f" title="Automata" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="https://github.com/user-attachments/assets/b5d129f3-601c-44a8-9838-b6427ea25904" title="Bahamut" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="https://github.com/user-attachments/assets/e2d75dbd-2df9-4521-85a6-fc723cc1e8e8" title="Fuel" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://testnet.0g.explorers.guru/validator/0gvaloper1u72ku05dvatllml2yt0a7hzt89dq8uvcahlyla" target="_blank"><img src="https://github.com/user-attachments/assets/332cfd05-08fa-45b0-948f-a3e7835292fc" title="Bool" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://github.com/babylonchain/networks/pull/301" target="_blank"><img src="img/babylon_black.jpeg" title="BABYLON" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://test.xfiscan.com/validators/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/xfi.webp" title="XFI" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://testnet.itrocket.net/crossfi/staking/mxvaloper14jw0a2s27pq8rcmqwv55d349zp0uaydsta8sgj" target="_blank"><img src="img/celestia logo.jpeg" title="CELESTIA" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://socotra.mcnscan.io/chain/L6HoCoW3WjunTJLj17fMnGpBbLtcZXdqbw2TsvfYDJzbsqVEi" target="_blank"><img src="img/socotra_logo.jfif" title="SOCOTRA" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://genesis.mcnscan.io/chain/2Zr6aSGX8LAatKXLcytd1jwssjwUfKXr86WyGTrfxpXHDV8Cgm" target="_blank"><img src="img/genesis.jpg" title="GENESIS" width="80" height="auto" style="max-width: 100%;"></a>
